@@ -1,0 +1,17 @@
+body {
+  font-size: 15px;
+  // display: flex;
+}
+
+.header-header {
+  color: green;
+  @media (max-width: 767px) {
+    font-size: 15px;
+  }
+}
+.main-header {
+  color: blue;
+  @media (max-width: 767px) {
+    font-size: 15px;
+  }
+}
